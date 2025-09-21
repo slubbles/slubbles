@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Slubbles 👾
 
-<!--
-**slubbles/slubbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building cool stuff in Web3 and helping others do the same!
 
-Here are some ideas to get you started:
+## About Me
+- Web3 Developer focused on Solana & Algorand ecosystems
+- Creator of [snarbles.xyz](https://snarbles.xyz) - No-code token creation platform
+- Skills: TypeScript, React, Next.js, TailwindCSS, Rust
+- 285+ contributions in the last year
+- Based in 🇵🇭 | he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've Built
+- **[snarbles.xyz](https://snarbles.xyz)** - Platform for no-code token creation and wallet integration
+- **custom-escrow-backend-solana** - Smart contract for multi-network escrow support
+- **snarblesUI** - Frontend for snarbles.xyz with Next.js and TailwindCSS
+- **soon-spl-token** - Rust-based Solana token creation dApp (launch soon)
+
+## Let's Talk About
+- Ping me about Solana, React Native, TypeScript, Web3, Blockchain
+
+## Find Me
+- [Twitter](https://twitter.com/slubbles)
+
+## Fun Fact
+I once coded a Solana wallet integration while sipping calamansi juice at a night market! 😄
