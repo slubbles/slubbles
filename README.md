@@ -11,7 +11,7 @@ Building cool Web3 stuff with Solana & Algorand, helping others do the same!
 
 ## What I've Built
 - **[Snarbles](https://snarbles.xyz)** - No-code platform for Solana & Algorand token creation and wallet integration
-- **[Escrow/Swap Program](https://custom-escrow.netlify.app/)**- Allows any project to launch their own tiered token sales via escrow system.
+- **[Escrow/Swap Program](https://custom-escrow.netlify.app/)** - Allows any project to launch their own tiered token sales via escrow system.
 - **custom-escrow-frontend** - Next.js & TailwindCSS frontend for escrow support
 - **snarbles-smartcontract** - Solana smart contract with multi-network support
 - **soon-spl-token** - Rust-based Solana token dApp (in development)
@@ -20,7 +20,7 @@ Building cool Web3 stuff with Solana & Algorand, helping others do the same!
 - Ping me about Solana, React Native, TypeScript, Web3, Blockchain
 
 ## Find Me
-- [X/Twitter][[(https://twitter.com/idderfsalem)](https://x.com/idderfsalem)]
+- [X/Twitter](https://x.com/idderfsalem)
 - [snarbles.xyz](https://snarbles.xyz)
 
 ## Fun Fact
