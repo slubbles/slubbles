@@ -8,7 +8,9 @@ Based in Philippines 🇵🇭 | he/him | UTC+8 | Open to remote opportunities
 
 ## About Me
 
-I build Web3 MVPs that real people actually use. My focus is taking complex blockchain operations and making them simple enough for anyone.
+I build Web3 MVPs that real people actually use. 
+
+My focus is taking complex blockchain operations and making them simple enough for anyone.
 
 **What I do:** Full-stack blockchain development - MVP to production, end to end
 
@@ -49,10 +51,10 @@ Tech: Solana, Next.js, TypeScript, shadcn/ui
 
 ## Tech Stack
 
-**Blockchain:** Solana (Web3.js, Anchor, Rust) • Algorand SDK • SOON Network
-**Frontend:** Next.js • React • TypeScript • TailwindCSS
-**Backend:** Supabase • API integration
-**Tools:** Git • Vercel • VPS management
+**Blockchain:** Solana (Web3.js, Anchor, Rust) | Algorand SDK | SOON Network
+**Frontend:** Next.js | React | TypeScript | TailwindCSS
+**Backend:** Supabase | API integration
+**Tools:** Git | Netlify | VPS management
 
 ---
 
@@ -85,7 +87,7 @@ Tech: Solana, Next.js, TypeScript, shadcn/ui
 ## Find Me
 
 • Website: snarbles.xyz
-• Twitter: @idderfsalem
+• X/Twitter: @idderfsalem
 
 ---
 
