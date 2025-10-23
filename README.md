@@ -31,12 +31,28 @@ Tech: Next.js, TypeScript, Algorand SDK, Solana Web3.js, Supabase
 
 **Live:** https://snarbles.xyz
 
+---
+
+### Stripe Payment Integration - Full-Stack Demo
+Complete payment processing system with React frontend and Node.js backend
+
+What it does: Product selection, secure checkout, real-time payment processing, webhook handling
+What I built: Full payment flow from UI to backend, PCI-compliant implementation, production-ready
+Tech: React, Node.js, Express, Stripe API, shadcn/ui, Tailwind CSS
+
+**Repository:** https://github.com/slubbles/stripe-integration  
+**Status:** Production-ready, tested with live payments
+
+---
+
 ### Token Presale Platform - MVP
 Multi-round token sales with vesting schedules and escrow
 
 What it does: Seed/Private/Public sales, linear vesting, whitelist management
 What I built: Solana smart contracts + full frontend MVP, end to end
 Tech: Anchor (Rust), Next.js, TypeScript, TailwindCSS
+
+---
 
 ### P2P Marketplace Framework - MVP
 Trustless escrow system for peer-to-peer transactions
@@ -51,17 +67,18 @@ Tech: Solana, Next.js, TypeScript, shadcn/ui
 
 ## Tech Stack
 
-**Blockchain:** Solana (Web3.js, Anchor, Rust) | Algorand SDK | SOON Network
-**Frontend:** Next.js | React | TypeScript | TailwindCSS
-**Backend:** Supabase | API integration
-**Tools:** Git | Netlify | VPS management
+**Blockchain:** Solana (Web3.js, Anchor, Rust) | Algorand SDK | SOON Network  
+**Frontend:** Next.js | React | TypeScript | TailwindCSS  
+**Backend:** Node.js | Express | Supabase | API integration  
+**Payment:** Stripe API (Payment Intents, Webhooks, PCI compliance)  
+**Tools:** Git | Netlify | Railway | VPS management
 
 ---
 
 ## What Makes Me Different
 
 • I ship complete MVPs end to end, not just code samples
-• I handle the full stack from smart contracts to UI
+• I handle the full stack from smart contracts to UI (and payment processing)
 • I build for real users with real needs
 • I document everything properly
 
@@ -79,6 +96,7 @@ Tech: Solana, Next.js, TypeScript, shadcn/ui
 
 • Solana, Algorand & SOON development
 • Web3 UX and making dApps feel like normal apps
+• Payment integrations and financial systems
 • TypeScript best practices
 • Building production blockchain MVPs end to end
 
@@ -88,6 +106,7 @@ Tech: Solana, Next.js, TypeScript, shadcn/ui
 
 • Website: snarbles.xyz
 • X/Twitter: @idderfsalem
+• GitHub: github.com/slubbles
 
 ---
 
@@ -95,3 +114,7 @@ Tech: Solana, Next.js, TypeScript, shadcn/ui
 
 I built a smart contract handling real money while sitting next to someone grilling street food.
 Risk management at its finest. 🍋
+
+---
+
+*Portfolio projects demonstrate full-stack capabilities across Web3, payment processing, and production MVP development.*
