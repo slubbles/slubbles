@@ -1,120 +1,107 @@
 # Hey, I'm Idderf (Slubbles) 👋
 
-Web3 Developer building production MVPs on Solana, Algorand & SOON
+**Full Stack Developer | Web3 & Blockchain Specialist**
 
-Based in Philippines 🇵🇭 | he/him | UTC+8 | Open to remote opportunities
+Building production MVPs on Solana, Algorand & SOON • Based in Philippines 🇵🇭 • UTC+8 • Remote
 
----
-
-## About Me
-
-I build Web3 MVPs that real people actually use. 
-
-My focus is taking complex blockchain operations and making them simple enough for anyone.
-
-**What I do:** Full-stack blockchain development - MVP to production, end to end
-
-**Where I work:** Solana • Algorand • SOON ecosystems
-
-**How I work:** Ship production MVPs, not just prototypes
+**Portfolio:** [idderfsalem.dev](https://idderfsalem.dev) 
 
 ---
 
-## What I've Shipped
+## What I Do
 
-### Snarbles - LIVE PRODUCTION MVP
-No-code platform for creating tokens on Solana & Algorand in under 30 seconds
+Full-stack developer building **production Web3 and traditional web apps**. I ship complete MVPs end-to-end—from smart contracts to polished UIs.
 
-What it does: Token creation, analytics dashboard, verification system, payment processing
-What I built: Complete MVP from smart contracts to mobile-optimized frontend, end to end
-Tech: Next.js, TypeScript, Algorand SDK, Solana Web3.js, Supabase
-
-**Live:** https://snarbles.xyz
-
----
-
-### Stripe Payment Integration - Full-Stack Demo
-Complete payment processing system with React frontend and Node.js backend
-
-What it does: Product selection, secure checkout, real-time payment processing, webhook handling
-What I built: Full payment flow from UI to backend, PCI-compliant implementation, production-ready
-Tech: React, Node.js, Express, Stripe API, shadcn/ui, Tailwind CSS
-
-**Repository:** https://github.com/slubbles/stripe-integration  
-**Status:** Production-ready, tested with live payments
+**My Stack:**
+- **Blockchain:** Solana (Anchor, Rust) • Algorand • SOON Network
+- **Frontend:** Next.js • React • TypeScript • Tailwind CSS
+- **Backend:** Node.js • Express • Supabase
+- **Payment:** Stripe API (PCI-compliant)
 
 ---
 
-### Token Presale Platform - MVP
-Multi-round token sales with vesting schedules and escrow
+## Live Projects
 
-What it does: Seed/Private/Public sales, linear vesting, whitelist management
-What I built: Solana smart contracts + full frontend MVP, end to end
-Tech: Anchor (Rust), Next.js, TypeScript, TailwindCSS
+### [Snarbles](https://snarbles.xyz) - Token Creation Platform
+**Status:** LIVE IN PRODUCTION
 
----
+No-code platform for creating tokens on Solana & Algorand in <30 seconds. Serving real users.
 
-### P2P Marketplace Framework - MVP
-Trustless escrow system for peer-to-peer transactions
-
-What it does: Blockchain-based escrow without intermediaries
-What I built: Smart contract architecture + industry-specific templates, MVP to framework
-Tech: Solana, Next.js, TypeScript, shadcn/ui
-
-**Live:** https://universal-p2p-system.netlify.app/
+**Built:** Smart contracts • Analytics dashboard • Payment processing • Mobile-optimized UI
 
 ---
 
-## Tech Stack
+### [P2P Marketplace Framework](https://universal-p2p-system.netlify.app)
+**Status:** LIVE MVP
 
-**Blockchain:** Solana (Web3.js, Anchor, Rust) | Algorand SDK | SOON Network  
-**Frontend:** Next.js | React | TypeScript | TailwindCSS  
-**Backend:** Node.js | Express | Supabase | API integration  
-**Payment:** Stripe API (Payment Intents, Webhooks, PCI compliance)  
-**Tools:** Git | Netlify | Railway | VPS management
+Trustless escrow system for peer-to-peer transactions without intermediaries.
+
+**Built:** Smart contract architecture • Industry templates • Complete framework
+
+---
+
+### [Stripe Payment Integration](https://github.com/slubbles/stripe-integration)
+**Status:** Production-Ready
+
+Complete payment system with React + Node.js. Secure checkout, webhooks, PCI-compliant.
+
+**Tested:** 100% success rate with live payments
+
+---
+
+### Token Presale Platform
+**Status:** MVP
+
+Multi-round token sales (Seed/Private/Public) with vesting schedules and whitelist management.
+
+**Built:** Solana smart contracts • Full frontend • Anchor (Rust)
 
 ---
 
 ## What Makes Me Different
 
-• I ship complete MVPs end to end, not just code samples
-• I handle the full stack from smart contracts to UI (and payment processing)
-• I build for real users with real needs
-• I document everything properly
+✅ Ship **production systems**, not just demos  
+✅ Handle **full stack** (smart contracts → UI → payments)  
+✅ Build for **real users** with real needs  
+✅ **Both** Web3 AND traditional web experience  
 
 ---
 
-## Looking For
+## Let's Connect
 
-• Full-time or contract work in Web3/blockchain development
-• Remote-first teams building MVPs in Solana, Algorand, or SOON ecosystems
-• Projects where I can own features end-to-end
+- **Portfolio:** [idderfsalem.dev](https://idderfsalem.dev)
+- **Twitter/X:** [@idderfsalem](https://x.com/idderfsalem)
+- **Email:** [Get In Touch](https://mail.google.com/mail/?view=cm&fs=1&to=idderfsalem98@gmail.com)
+
+---
+
+## Open To
+
+- Full-time or contract Web3/blockchain development
+- Remote-first teams building production MVPs
+- Projects where I can own features end-to-end
 
 ---
 
 ## Let's Talk About
 
-• Solana, Algorand & SOON development
-• Web3 UX and making dApps feel like normal apps
-• Payment integrations and financial systems
-• TypeScript best practices
-• Building production blockchain MVPs end to end
+• Solana, Algorand & SOON development  
+• Making dApps feel like normal apps (Web3 UX)  
+• Payment integrations & financial systems  
+• Building production blockchain MVPs  
 
 ---
 
-## Find Me
+### ⚡ Fun Fact
 
-• Website: snarbles.xyz
-• X/Twitter: @idderfsalem
-• GitHub: github.com/slubbles
+Built a smart contract handling real money while sitting next to someone grilling street food. Risk management at its finest. 🍋
 
 ---
 
-## Fun Fact
+<div align="center">
 
-I built a smart contract handling real money while sitting next to someone grilling street food.
-Risk management at its finest. 🍋
+**Portfolio projects demonstrate full-stack capabilities across Web3, payment processing, and production MVP development.**
 
----
+[View Portfolio](https://idderfsalem.dev) • [Projects](https://idderfsalem.dev/#projects) • [Contact](https://idderfsalem.dev/#contact)
 
-*Portfolio projects demonstrate full-stack capabilities across Web3, payment processing, and production MVP development.*
+</div>
