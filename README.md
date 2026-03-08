@@ -12,7 +12,7 @@
 
 ---
 
-I build full-stack web applications end-to-end — from UI to backend APIs, databases, payments, and deployment. Over a year of shipping production-ready products independently, including SaaS platforms, AI-powered tools, and a peer-to-peer marketplace with real transaction handling.
+I build full-stack web applications end-to-end, from UI to backend APIs, databases, payments, and deployment. Over a year of shipping production-ready products independently, including SaaS platforms, AI-powered tools, and a peer-to-peer marketplace with real transaction handling.
 
 ---
 
@@ -43,10 +43,10 @@ Web3       Solana · Rust · Anchor Framework
 
 ### Currently
 
-Building a self-learning AI agent system — autonomous task execution with human-in-the-loop controls. Focused on making AI systems that are reliable, auditable, and stay within defined boundaries.
+Building a self-learning AI agent system with autonomous task execution and human-in-the-loop controls. Focused on making AI systems that are reliable, auditable, and stay within defined boundaries.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/slubbles">github.com/slubbles</a>
+  <a href="https://idderfsalem.dev">idderfsalem.dev</a>
 </p>
