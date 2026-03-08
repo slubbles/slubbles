@@ -1,30 +1,73 @@
-# Hey, I'm Idderf Salem 👋
-**Full Stack Developer** building production web apps from zero to deployment.
-I design, build, and ship — from UI to backend APIs, payment systems, and cloud infrastructure.
+<div align="center">
+
+```
+██████████████████████████████████████████████
+█                                            █
+█   Building AI that stays under command.   █
+█                                            █
+██████████████████████████████████████████████
+```
+
+# Idderf Salem
+
+**Full Stack Developer · AI Builder · Mission-Driven**
+
+*Shipping production apps. Working toward AI that prevents conflict, not just profits.*
+
+[![X](https://img.shields.io/badge/X-%40idderfsalem-000000?style=flat-square&logo=x)](https://x.com/idderfsalem)
+[![Portfolio](https://img.shields.io/badge/Web-idderfsalem.dev-111111?style=flat-square)](https://idderfsalem.dev)
+
+</div>
+
 ---
-### 🚀 What I'm Working On
-- **[Post Content](https://postcontent.io)** — AI-powered content creation platform (React, Node.js, Grok API)
-- **[Snarbles](https://snarbles.xyz)** — Full-stack app with analytics dashboard, verification system & Stripe payments
-- **[One Dollar Ventures](https://onedollarventures.com)** — Micro-crowdfunding platform with user onboarding & payment flows
+
+## What I Build
+
+Full-stack web apps from zero to production — UI, APIs, databases, payments, deployment. No handoffs, no gaps.
+
+Current focus: a **self-learning, self-executing AI system** designed to stay under human command. Not a toy project. Mission-critical work toward AI applied to conflict prevention and casualty minimization.
+
 ---
-### 🛠 Tech Stack
-**Frontend** · React · Next.js · TypeScript · Tailwind CSS · shadcn/ui  
-**Backend** · Node.js · RESTful APIs · Webhooks · Prisma ORM  
-**Database** · PostgreSQL · Supabase  
-**Payments** · Stripe API · Polar.sh · Escrow Systems · Fiat & Crypto Processing  
-**DevOps** · Git · Vercel · Railway · Netlify · Docker · CI/CD · AWS  
-**Integrations** · Claude API · Grok API · X API  
-**Blockchain** · Solana · Rust · Anchor Framework · Smart Contracts  
+
+## Live Projects
+
+| Project | What it does |
+|---|---|
+| [postcontent.io](https://postcontent.io) | AI-powered content creation — hooks, threads, scripts via Grok API |
+| [onedollarventures.com](https://onedollarventures.com) | Micro-crowdfunding platform with real payment flows |
+| [snarbles.xyz](https://snarbles.xyz) | Full-stack app with analytics, verification, Stripe processing |
+| [AI Agents](https://github.com/slubbles/AI-agents) | 🚧 In progress — self-executing agent architecture |
+
 ---
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=slubbles&show_icons=true&theme=neutral&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slubbles&layout=compact&theme=neutral&hide_border=true&bg_color=00000000" alt="Top Languages" height="165" />
-</p>
+
+## Stack
+
+```
+Frontend   →  React · Next.js · TypeScript · Tailwind · shadcn/ui
+Backend    →  Node.js · Express · RESTful APIs · Webhooks
+Database   →  PostgreSQL · Supabase · Prisma · Vector DB (RAG)
+Payments   →  Stripe · Polar.sh · Escrow Systems · Crypto
+DevOps     →  Vercel · Railway · Netlify · Docker · AWS · CI/CD
+AI         →  Claude API · Grok API · X API
+Web3       →  Solana · Rust · Smart Contracts (Anchor)
+```
+
 ---
-### 📬 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-idderfsalem.dev-000?style=flat-square)](https://idderfsalem.dev)
-[![X](https://img.shields.io/badge/X-@idderfsalem-000?style=flat-square&logo=x)](https://x.com/idderfsalem)
-[![Email](https://img.shields.io/badge/Email-Available_for_hire-000?style=flat-square&logo=gmail)](mailto:contact@idderfsalem.dev)
+
+## What Drives Me
+
+Most AI development chases profit. I'm more interested in what it can *prevent*.
+
+I'm building toward AI systems that help humans make better decisions under pressure — conflict resolution, casualty minimization, global stability. The foundational work is happening now, and I think developers have a responsibility to point their skills at problems that matter.
+
+If you're working on anything in that direction — or think I'm wrong about it — let's talk.
+
 ---
-<p align="center"><sub>I ship things. Let's build something together.</sub></p>
+
+<div align="center">
+
+`idderfsalem98@gmail.com` · `github.com/slubbles`
+
+*Building in public. Thinking out loud.*
+
+</div>
